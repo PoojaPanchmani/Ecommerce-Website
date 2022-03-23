@@ -1,0 +1,152 @@
+.carousel-image
+{
+    width:100%;
+    height:100vh;
+}
+.carousel_title
+{
+    padding-bottom:100px;
+    font-size:15px;
+}
+.back_top
+{
+    margin-top:30px;
+    width:100%;
+    height:40px;
+    font-weight:bold;
+    background-color:#8FBC8F;
+    text-align:center;
+}
+.back_top_link
+{
+    text-decoration:none;
+    color:white;
+    margin-top:30px;
+    font-size:20px;
+}
+.internal_detail
+{
+    width:100%;
+    height:auto;
+    background-color:#2F4F2F;
+    color:grey;
+    font-size:18px;
+}
+.title
+{
+    margin-top:20px;
+}
+.title_detail
+{
+    text-decoration:none;
+    color:white;
+    margin-top:20px;
+    font-size:15px;
+}
+.title_detail_link
+{
+    color:white;
+    text-decoration:none;
+    margin-left:20px;
+    margin-top:10px;
+}
+.text_detail_link:hover
+{
+    color:grey;
+}
+.contactus_main_div
+{
+    margin:0;
+    top:0;
+    font-family:'Times New Roman', Times, serif;
+    width:100%;
+    height:100vh;
+}
+.contactus_head
+{
+   background-color:grey;
+   width:100%;
+   height:60px;
+   text-align:center;
+}
+.contactus_head:hover
+{
+    background-color:black;
+}
+.contactus_head_link
+{
+    color:black;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:30px; 
+}
+.contactus_head_link:hover
+{
+    color:white;
+}
+.contactus_div
+{
+    margin-top:50px;
+}
+.contactus_detail
+{
+    background-color:whitesmoke;
+    border:2px groove white;
+    width:50%;
+    margin-left:30%;
+    margin-top:20px;
+}
+.contactus_detail_head
+{
+    font-size:20px;
+    font-weight:bold;
+    padding-top:10px;
+    padding-left:40%;
+}
+.contactus_detail_value
+{
+    font-size:20px;
+    padding-top:10px;
+    padding-left:40%;
+}
+.aboutus_main_div
+{
+    margin:0;
+    top:0;
+    font-family:'Times New Roman', Times, serif;
+    width:100%;
+    height:100vh;
+}
+.aboutus_head
+{
+   background-color:grey;
+   width:100%;
+   height:60px;
+   text-align:center;
+}
+.aboutus_head:hover
+{
+    background-color:black;
+}
+.aboutus_head_link
+{
+    color:black;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:30px; 
+}
+.aboutus_head_link:hover
+{
+    color:white;
+}
+.aboutus_detail
+{
+    background-color:whitesmoke;
+    border:2px groove white;
+    width:40%;
+    margin-left:30%;
+    margin-top:7%;
+    font-size:25px;
+    padding-top:10px;
+    padding-left:10px;
+}

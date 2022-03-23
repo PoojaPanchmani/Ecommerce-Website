@@ -1,0 +1,158 @@
+*
+{
+    font-family:'Times New Roman', Times, serif;
+    box-sizing:border-box;
+    top:0;
+    margin:0;
+}
+.error_field
+{
+    color:red;
+    font-size:15px;
+}
+.user_detail_div
+{
+    background-color:whitesmoke;
+    margin-left:10%;
+    margin-top:7%;
+    margin-right:20%;
+    border:2px groove whitesmoke;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.user_detail_head
+{
+    background-color:grey;
+    color:white;
+    font-size:23px;
+    font-weight:bold;
+    height:30px;
+    text-align:center;
+    padding-top:2px;
+}
+.user_detail_label
+{
+    margin-top:20px;
+    margin-left:10px;
+    color:grey;
+}
+.user_detail_input
+{
+    margin-left:10px;
+}
+.placeorder_btn
+{
+    background-color:#8FBC8F;
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    border:1px groove #8FBC8F;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+    margin-left:5%;
+    margin-bottom:10%;
+}
+.payment_mode_div
+{
+    background-color:white;
+    border:2px groove white;
+    border-radius:5px;
+    margin:15% 35%;
+    text-align:center;
+}
+.payment_mode_head
+{
+    color:grey;
+    font-size:20px;
+    font-weight:bold;
+}
+.payment_btn
+{
+    margin-top:10%;
+    margin-bottom:10%;
+    background-color:black;
+    color:white;
+    border:1px groove black;
+    border-radius:5px;
+    width:25%;
+    font-size:20px;
+    cursor:pointer;
+}
+.offline_btn
+{
+    margin-left:10px;
+}
+.online_btn
+{
+    margin-right:10px;
+}
+.formGroup
+{
+    margin-left:20px;
+    margin-top:30px;
+}
+.card
+{
+    background-color:black;
+    padding:10px 20px 11px;
+    border-radius:5px;
+    margin:25px 0px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+    width:100%;
+    height:50px;
+    border:1px solid #afafaf;
+    
+}
+.paymentbtn
+{
+    margin-top:3%;
+    width:100%;
+    text-align:center;
+    font-size:25px;
+    font-weight:"bold";
+    background-color:black;
+    color:white;
+}
+.payment_success_div
+{
+    background-color:black;
+    color:grey;
+    width:50%;
+    height:250px;
+    margin-top:10%;
+    text-align:center;
+    margin-left:20%;
+    border:1px groove grey;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.payment_success_info
+{
+    font-size:30px;
+    padding-top:70px;
+}
+.payment_success_btn
+{
+    background-color:grey;
+    color:black;
+    padding-top:10px;
+    font-weight:bold;
+    border:1px groove black;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}

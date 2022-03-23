@@ -1,0 +1,35 @@
+*
+{
+    font-family:'Times New Roman', Times, serif;
+    position:relative;
+}
+
+.navbar_brand_text
+{
+    font-size:20px;
+    font-weight:bolder;
+    color:white;
+}
+.navbar_item
+{
+    margin-left:30px;
+    font-size:15px;
+    font-weight:bold;
+}
+.navbar_item:hover
+{
+    border:1px solid white;
+    height:43px;
+}
+.membership:hover
+{
+    width:120px;
+}
+.order:hover
+{
+    width:70px;
+}
+.cart:hover
+{
+    width:100px;
+}

@@ -1,0 +1,75 @@
+.register_div
+{
+    margin:100px 400px;
+    background-color:whitesmoke;
+    border:1px groove whitesmoke;
+    border-radius:5px;
+}
+.register_title
+{
+    margin-top:20px;
+    font-size:20px;
+    color:black;
+    text-align:center;
+}
+.register_label
+{
+    margin-top:20px;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    margin-left:15px;
+}
+.register_input
+{
+    font-size:15px;
+    color:grey;
+    margin-top:10px;
+    margin-left:20px;
+    width:75%;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.register_input:hover
+{
+    border:1px solid #2F4F4F;
+    outline:#2F4F4F; 
+}
+.register_btn
+{
+    background-color:#8FBC8F;
+    width:75%;
+    height:35px;
+    margin:30px 40px;
+    font-size:20px;
+    color:black;
+    font-weight:bold;
+    text-align:center;
+    border:1px groove #8FBC8F;
+    border-radius:5px;
+    padding-bottom:5px;
+}
+.register_btn:hover
+{
+    background-color:#2F4F4F;
+}
+.already_register
+{
+    font-size:15px;
+    margin-bottom:15px;
+}
+.already_register_text
+{
+    margin-left:15px;
+}
+.already_register_signin
+{
+    text-decoration:none;
+}
+.already_register_signin:hover
+{
+    color:#2F4F2F;   
+}

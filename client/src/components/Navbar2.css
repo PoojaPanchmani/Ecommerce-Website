@@ -1,0 +1,56 @@
+.navbar2_div
+{
+    background-color:#2F4F2F;
+    width:100%;
+}
+.offcanvas_width
+{
+    width:300px;
+}
+.offcanvas_head
+{
+    background-color:#2F4F2F;
+    color:white;
+}
+.offcanvas_title
+{
+    padding-right:150px;
+    padding-top:10px;
+}
+.offcanvas_title_img
+{
+    font-size:30px;
+}
+.offcanvas_link
+{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+}
+.offcanvas_link:hover
+{
+    color:#8FBC8F;
+}
+.canvas_btn
+{
+    border:none;
+    background:transparent;
+    padding-left:50px;
+    color:white;
+}
+.greeting_day
+{
+    padding-left:400px;
+    font-size:25px;
+    padding-top:5px;
+}
+.stopwatch_div
+{
+    padding-top:5px;
+    padding-bottom:2px;
+    font-size:20px;
+    font-weight:bold;
+    margin-right:20px;
+    padding-left:85%;
+    color:white;
+}
